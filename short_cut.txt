@@ -1,0 +1,35 @@
+font-family: 'Montserrat', sans-serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Roboto', sans-serif;
+
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-pinterest-p"></i>
+<i class="fab fa-youtube"></i>
+<i class="fab fa-tumblr"></i>
+
+
+
+
+<i class="fas fa-user-friends"></i>
+<i class="far fa-clock"></i>
+<i class="fas fa-chart-line"></i>
+<i class="fas fa-desktop"></i>
+<i class="fas fa-book-open"></i>
+<i class="fas fa-home"></i>
+<i class="fas fa-expand"></i>
+<i class="fas fa-chevron-left"></i>
+<i class="far fa-image"></i>
+
+
+
+
+
+
+
+
+
+
+<i class="fi-rs-alarm-clock"></i>
